@@ -61,7 +61,7 @@ const App = () => {
                   🧑🏼‍💻 Developer
                 </span>
               </div>
-              <div className="w-[350px] md:w-full">
+              <div className="w-[350px] md:w-full px-1">
                 <div className="relative flex cursor-pointer bg-boxLink transition-all hover:bg-boxLogo hover:bg-opacity-80 space-x-2 rounded-md items-center mt-3">
                   <div className="py-6 px-7 bg-boxLogo rounded-l-md">🌊</div>
                   <div className="pl-3">
